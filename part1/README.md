@@ -2,3 +2,4 @@
 
 - [Course Information](./courseinfo/)
 - [Unicafe](./unicafe/)
+- [Anecdotes](./anecdotes/)
